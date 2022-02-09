@@ -1,6 +1,7 @@
 import pygame
 import pandas as pd
 import random
+from sklearn.mainfold import MDS
 
 pygame.init()
 
@@ -16,9 +17,9 @@ clock = pygame.time.Clock()
 
 
 xls = pd.ExcelFile(
-    "./indpendent-work2/data/result.xlsx"
+    "independent_work/Network-Vis/data/followersList.xlsx"
 )
-data = pd.read_excel( xls, "result")
+data = pd.read_excel( xls, "result (1)")
 
 class node:
     def __init__(self, id):
