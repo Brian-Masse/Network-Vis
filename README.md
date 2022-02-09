@@ -122,7 +122,7 @@ This vis, using the full dataset, and showing the same information as the previo
 
 ![image](https://github.com/Brian-Masse/Network-Vis/blob/main/exports/Screen%20Shot%202022-02-09%20at%2012.53.21%20AM.png)
 
-#CONCLUSION:
+# CONCLUSION:
 
 Don’t try this at home.
 
